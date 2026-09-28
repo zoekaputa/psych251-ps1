@@ -1,4 +1,4 @@
-# psych521-ps1
+# psych251-ps1
 
 https://zoekaputa.github.io/psych251-ps1/
 
