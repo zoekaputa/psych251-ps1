@@ -6,4 +6,6 @@ Author: Zoe Kaputa
 
 For PSET 1 in PSYCH 251.
 
-PR I reviewed: https://github.com/zoekaputa/psych251-ps1
+PR I reviewed: https://github.com/yutongz7/psych251-ps1
+
+AI use: none
