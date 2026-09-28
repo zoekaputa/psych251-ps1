@@ -1,0 +1,7 @@
+## Dataset Summary
+
+Below is a statistical overview of the built-in cars dataset:
+
+```{r}
+summary(cars)
+```
