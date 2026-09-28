@@ -1,4 +1,4 @@
-## Hello, conflicts
+## New title
 
 Below is a statistical overview of the cars dataset:
 
