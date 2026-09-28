@@ -4,4 +4,9 @@ Below is a statistical overview of the cars dataset:
 
 ```{r}
 summary(cars)
+
+library(ggplot2)
+
+ggplot(data = cars, mapping = aes(x = speed, y = dist)) +
+  geom_point()
 ```
